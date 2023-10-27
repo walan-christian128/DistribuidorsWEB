@@ -27,7 +27,7 @@ nav.menu-lateral{
    height: 160%;
    background-color: rgba (black);
    padding: 40px 0 40px 1%; 
-   box-shadow: 3px 0 0 white ;
+   box-shadow: 3px 0 0 greenyellow ;
    left:0;
    top: 0;
    overflow: hidden;
@@ -42,7 +42,7 @@ width:100%;
 padding-left: 10px;
 }
 .btn-expandir > i{
-   color: white;
+   color: greenyellow;
    font-size: 24px;
    cursor: pointer;
 }
@@ -60,7 +60,7 @@ ul li.item-men:hover{
 
 }
 ul li.item-men a{
-   color: white;
+   color: greenyellow;
    text-decoration: none;
    font-size: 20px;
    padding: 20px 4%;
